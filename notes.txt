@@ -1,0 +1,39 @@
+MultiLayer Perceptron vs Support Vector Machine.
+Classification Problem.
+
+Submission CheckList: 
+    * Code/Test Data Set required to run your two best models and produce min 2 Fig.
+    * A paper containing description and comparative critical evaluation of results + Fig.
+    * Paper supplementary material containing glossary of main terms used in paper.
+        Intermediate Results and Implementation Details.
+    * Video Presentation.
+    * Print out of entire code.
+
+
+Plan. 
+
+Preprocessing Checklist:
+    * No Missing Values
+    * Check Data Shape
+    * Scale/Transform Data to Best Suit Model
+    * Split Data into Test/Train
+
+MultiLayer Perceptron:
+    *
+
+Support Vector Machines:
+    *
+
+Figures for Evalutaion:
+    * 
+
+
+Log -> Due 24 April 2026
+
+10/11 March (44 Days)
+- Structured Repository + Project Plan. Virtual Enviroment Initialization.
+
+12? March
+- Revise SVM & MLP Theory.
+- See best implementation of MLP/SVM using Pytorch. 
+- Write Skeleton Code.

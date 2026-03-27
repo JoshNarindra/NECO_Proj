@@ -13,13 +13,22 @@ Submission CheckList:
 Plan. 
 
 Preprocessing Checklist:
-    * No Missing Values
-    * Check Data Shape
-    * Scale/Transform Data to Best Suit Model
-    * Split Data into Test/Train
+    * Load Data ✅
+    * No Missing Values ✅
+    * Check Data Shape ✅
+
+    * Split Data into Test/Train ✅
+    * Scale/Transform Data to Best Suit Model ✅
+    * Labels Encoded ✅
+    * Convert Data to Tensors ✅
+    * Wrap in Data Loader ✅
 
 MultiLayer Perceptron:
-    *
+    * Define Model
+    * Define Loss Function
+    * Define Optimiser
+    * Write training Loop 
+    * Evaluate on test set
 
 Support Vector Machines:
     *

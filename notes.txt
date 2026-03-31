@@ -24,11 +24,15 @@ Preprocessing Checklist:
     * Wrap in Data Loader ✅
 
 MultiLayer Perceptron:
-    * Define Model
-    * Define Loss Function
-    * Define Optimiser
-    * Write training Loop 
+    
+Baseline Model
+    * Define Model ✅
+    * Define Loss Function ✅
+    * Define Optimiser ✅
+    * Write training Loop ✅
     * Evaluate on test set
+
+Xavier Initialization??
 
 Support Vector Machines:
     *
@@ -46,3 +50,9 @@ Log -> Due 24 April 2026
 - Revise SVM & MLP Theory.
 - See best implementation of MLP/SVM using Pytorch. 
 - Write Skeleton Code.
+
+27 March 
+- Finished Preprocessing
+
+31 March
+- Baseline Model
